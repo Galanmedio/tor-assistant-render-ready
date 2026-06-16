@@ -1,0 +1,13 @@
+{
+  "name": "tor-assistant-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Online TOR assistant for government bid tracking and document preparation.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
